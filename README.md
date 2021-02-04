@@ -146,6 +146,18 @@
 </details>
 
 
+***
+<details>
+<summary><b>Exception</b></summary>
+<br>
+
+*Exception* - исключение, выбрасываемое в случае ошибки.
+
+#### Правила:
+- *Exception* **не может** использовать сущности.
+</details>
+
+
 
 ***
 <br>
