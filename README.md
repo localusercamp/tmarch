@@ -16,6 +16,7 @@
 ***
 <details>
 <summary><b>Request</b></summary>
+<br>
 
 *Request* является воплощением запроса от пользователя к серверу. 
 
@@ -31,6 +32,7 @@
 ***
 <details>
 <summary><b>Controller</b></summary>
+<br>
 
 *Controller* отделяет бизнес логику от валидации данных и манипуляций с запросами.
 
@@ -51,6 +53,7 @@
 ***
 <details>
 <summary><b>Action</b></summary>
+<br>
 
 *Action* - это точка входа в бизнес логику приложения. *Action* представляет собой действие в приложении и по совокупности этих действий можно определить, что делает приложение.
 
@@ -73,6 +76,7 @@
 ***
 <details>
 <summary><b>Task</b></summary>
+<br>
 
 *Task* - сущность, инкапсулирующая выполнение определенной задачи.
 
@@ -92,6 +96,7 @@
 ***
 <details>
 <summary><b>Model</b></summary>
+<br>
 
 *Model* - модель Laravel.
 
@@ -106,6 +111,7 @@
 ***
 <details>
 <summary><b>Collection</b></summary>
+<br>
 
 *Collection* инкапсулирует чейнинг EloquentCollection для конкретной модели.
 
@@ -121,6 +127,7 @@
 ***
 <details>
 <summary><b>Entity</b></summary>
+<br>
 
 *Entity* - сущность, которая реализует конкретную задачу с использованием преимуществ ООП (сохранение состояния, наследование, инкапсуляция и т.д.), но при этом не нуждается в использовании `EloquentBuilder` как *Model*.
 
@@ -149,6 +156,7 @@
 ***
 <details>
 <summary><b>Отличия Contract от Interface</b></summary>
+<br>
 
 *Contract* реализуются сущностям-наследниками родительских сущностей проекта.
 
