@@ -3,7 +3,7 @@
 
 
 ### Схема основных сущностей приложения
-![alt text](assets/arch.jpg)
+![alt text](/assets/arch.jpg)
 
 
 
